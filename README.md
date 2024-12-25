@@ -3,6 +3,7 @@
 
 # CCESuite Color-Based Carotenoid Estimation Suite (CCES) – GUI Modules
 <img width="416" alt="image" src="https://github.com/user-attachments/assets/4b333544-bec3-44a3-a707-696902ed3617">
+
 Overview
 
 The CCES software suite includes three main graphical modules, all ending with the _app.py suffix:
